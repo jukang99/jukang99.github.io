@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "jukang99"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "jukang99"
+name                     : "Home"
 description              : "An amazing website."
 url                      : "https://jukang99.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
