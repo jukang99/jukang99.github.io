@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "jukang99"
+title                    : "Home"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Home"
+name                     : "jukang99"
 description              : "Everything's gonna be alright."
 url                      : "https://jukang99.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
